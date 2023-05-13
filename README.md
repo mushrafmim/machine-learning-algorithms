@@ -1,2 +1,3 @@
-# naive-bayes-classifier
-This repository includes projects using naive bayes classifier.
+# Machine Learning Algorithms
+
+This repository contains common machine learning algorithms.
